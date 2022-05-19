@@ -1,5 +1,5 @@
 ### Hi there 👋I am Trilasha Mazumder:)
-![ alt text for screen readers](/https://github.com/Trilasha/Trilasha/blob/main/header.png?raw=true/to/header. png "Text to show on mouseover") 
+![Greetings](https://github.com/Trilasha/Trilasha/blob/main/header.png?raw=true) 
 <!--
 **Trilasha/Trilasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
