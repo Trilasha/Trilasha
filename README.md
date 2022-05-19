@@ -1,13 +1,14 @@
 ![Greetings](https://github.com/Trilasha/Trilasha/blob/main/header.png?raw=true) 
 
-## Connect with me:-
+<h3 align="left"><img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /> Connect with me: </p></h3>
+<p align="left">
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:goraisoumali5@gmail.com)](mailto:trilashamazumder2022@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soumali-gorai-566b01220/)](https://www.linkedin.com/in/trilasha-mazumder-51b234224/)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 <!-- [![Hashnode Badge](https://img.shields.io/badge/-Hashnode-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://thepranaygupta.hashnode.dev/)](https://thepranaygupta.hashnode.dev/) -->
 
-## Github Engagement📊:
+<h3> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; GitHub Engagement</h3>
 
 <table>
   <tr>
@@ -21,7 +22,7 @@
   
 </table>
 
-## Productivity Statistics📈:
+<h3> <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px">&nbsp; Productivity Statistics</h3>
 
 <table>
   <tr>
