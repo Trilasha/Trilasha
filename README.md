@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soumali-gorai-566b01220/)](https://www.linkedin.com/in/trilasha-mazumder-51b234224/)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 <!-- [![Hashnode Badge](https://img.shields.io/badge/-Hashnode-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://thepranaygupta.hashnode.dev/)](https://thepranaygupta.hashnode.dev/) -->
-  
+  ![Profile views](https://gpvc.arturio.dev/Trilasha) 
 
 <h3> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; GitHub Engagement</h3>
 
@@ -38,9 +38,12 @@
  <br>
  </p>
 
+
 <!--
 **Trilasha/Trilasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Profile views](https://gpvc.arturio.dev/Trilasha)  
+![Profile views](https://gpvc.arturio.dev/Trilasha) 
+  ## Watch my contribution graph get eaten by the snake 🐍
+![snake gif](https://github.com/Trilasha/Trilasha/blob/output/github-contribution-grid-snake.svg)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
