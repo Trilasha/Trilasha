@@ -1,6 +1,5 @@
 ### Hi there 👋I am Trilasha Mazumder:)
-![alt text](http://https://github.com/Trilasha/Trilasha/blob/main/header.png?raw=true/to/header.png)
-
+https://github.com/Trilasha/Trilasha/blob/main/header.png?raw=true
 <!--
 **Trilasha/Trilasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
