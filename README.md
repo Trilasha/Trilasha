@@ -9,7 +9,7 @@
 <!-- [![Hashnode Badge](https://img.shields.io/badge/-Hashnode-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://thepranaygupta.hashnode.dev/)](https://thepranaygupta.hashnode.dev/) -->
 <!--   ![Profile views](https://gpvc.arturio.dev/Trilasha)  -->
 
-<h3> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; GitHub Engagement</h3>
+<h3> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="12px" height="36px">&nbsp; GitHub Engagement</h3>
 
 <table>
   <tr>
@@ -23,7 +23,7 @@
   
 </table>
 
-<h3> <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px">&nbsp; Productivity Statistics</h3>
+<h3> <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="12px" height="36px">&nbsp; Productivity Statistics</h3>
 
 <table>
   <tr>
