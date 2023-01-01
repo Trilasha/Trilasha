@@ -9,7 +9,7 @@
 <!-- [![Hashnode Badge](https://img.shields.io/badge/-Hashnode-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://thepranaygupta.hashnode.dev/)](https://thepranaygupta.hashnode.dev/) -->
 <!--   ![Profile views](https://gpvc.arturio.dev/Trilasha)  -->
 
-<h3> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="12px" height="36px">&nbsp; GitHub Engagement</h3>
+<h3> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="21px" height="36px">&nbsp; GitHub Engagement</h3>
 
 <table>
   <tr>
@@ -23,14 +23,14 @@
   
 </table>
 
-<h3> <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="12px" height="36px">&nbsp; Productivity Statistics</h3>
+<h3> <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="21px" height="36px">&nbsp; Productivity Statistics</h3>
 
 <table>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Trilasha&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
    </tr> 
    <tr>
-      <td><img src="https://activity-graph.herokuapp.com/graph?username=Trilasha&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
+<!--       <td><img src="https://activity-graph.herokuapp.com/graph?username=Trilasha&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td> -->
   </td>
   </tr>
 </table>
